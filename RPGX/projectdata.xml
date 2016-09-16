@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<openrpgmaker-projectdata fileFormatVersion="4" name="RPGX" fullscreen="false" displaytitle="true">
+	<editor tool="Pencil" editMode="Layers" zoom="1:1" tileset="0"/>
+	<maplist selectedmap="0">
+		<map id="0" name="Map0000" expanded="false"/>
+	</maplist>
+</openrpgmaker-projectdata>
